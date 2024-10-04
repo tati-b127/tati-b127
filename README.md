@@ -44,12 +44,13 @@
 
 <br/>
 
-## GitHub Stats 📊
+## My GitHub Stats 📊
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tati-b127&theme=nightowl" alt="Graph" width="100%" />
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tati-b127&theme=nightowl)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tati-b127&theme=nightowl" alt="Stats" width="50%" /><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tati-b127&theme=nightowl" alt="Most Commit Language" width="50%" />
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tati-b127&theme=nightowl) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tati-b127&theme=nightowl)
 
 <!--
 **tati-b127/tati-b127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
