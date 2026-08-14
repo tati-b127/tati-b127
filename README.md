@@ -3,7 +3,7 @@
 <h3 align="center">I build digital products at the intersection of frontend development, AI, UX/UI and fintech.</h3>
 
 <div align="center">
-<a href="https://tati-b127.github.io/about_me/"><img src="https://img.shields.io/badge/My Portfolio-7952B3?style=for-the-badge&"/></a> <a href="https://www.linkedin.com/in/tatyana-baranova/"><img src="https://img.shields.io/badge/linkedin-7952B3?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=amd"/></a> <a href="https://t.me/@tgolovinaaa"><img src="https://img.shields.io/badge/@tgolovinaaa-7952B3?style=for-the-badge&logo=telegram&logoColor=white&logoSize=amd"/></a>
+<a href="https://tati-b127.github.io/about_me/"><img src="https://img.shields.io/badge/My Portfolio-7952B3?style=for-the-badge&"/></a> <a href="https://www.linkedin.com/in/tatyana-baranova/"><img src="https://img.shields.io/badge/linkedin-7952B3?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=amd"/></a> <a href="https://t.me/tgolovinaaa"><img src="https://img.shields.io/badge/@tgolovinaaa-7952B3?style=for-the-badge&logo=telegram&logoColor=white&logoSize=amd"/></a>
 </div>
 
 
