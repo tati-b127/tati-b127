@@ -1,55 +1,136 @@
-<h1 align="center">Hi there, I'm Tatyana Baranova! 👋</h1>
-<h2 align="center"><strong>Frontend Developer</strong></h2>
+<h1 align="center">Hi there, I'm Tatyana Golovina! 👋</h1>
+<h2 align="center"><strong>Frontend Developer · AI Creative Technologist · Digital Product Builder</strong></h2>
+<h3 align="center">I build digital products at the intersection of frontend development, AI, UX/UI and fintech.</h3>
 
 <div align="center">
-<a href="https://tati-b127.github.io/about_me/"><img src="https://img.shields.io/badge/My Portfolio-7952B3?style=for-the-badge&"/></a> <a href="https://www.linkedin.com/in/tatyana-baranova/"><img src="https://img.shields.io/badge/linkedin-7952B3?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=amd"/></a> <a href="https://t.me/@Toi_toi"><img src="https://img.shields.io/badge/@Toi_toi-7952B3?style=for-the-badge&logo=telegram&logoColor=white&logoSize=amd"/></a>
+<a href="https://tati-b127.github.io/about_me/"><img src="https://img.shields.io/badge/My Portfolio-7952B3?style=for-the-badge&"/></a> <a href="https://www.linkedin.com/in/tatyana-baranova/"><img src="https://img.shields.io/badge/linkedin-7952B3?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=amd"/></a> <a href="https://t.me/@tgolovinaaa"><img src="https://img.shields.io/badge/@tgolovinaaa-7952B3?style=for-the-badge&logo=telegram&logoColor=white&logoSize=amd"/></a>
 </div>
 
 
 
-## About Me
+# About Me
 
-💻 I create dynamic, responsive, and user-friendly web applications.
+I'm a Digital Product Developer focused on building modern digital products at the intersection of frontend development, AI, UX/UI and FinTech.
 
-🚀 I enjoy solving challenging tasks and learning new technologies.
+I work across the product lifecycle — from business requirements and product architecture to frontend implementation, UX/UI, AI-generated content and technical documentation.
 
-📈 Over a year of experience in web development.
-
-💡 Passionate about UX/UI and AI technogies.
-
-👩‍🏫 I teach at an IT school.
+I enjoy turning complex ideas into clear, scalable and visually consistent digital experiences.
+</br>
 
 
-<br/>
+💻 Building production-ready web applications with Vue, Nuxt and TypeScript
 
-## My Stack & Tools
+🧩 Designing scalable SaaS and multi-tenant applications
 
+🎨 Working with UX/UI, design systems and product interfaces
 
-<img src="https://img.shields.io/badge/Vue.js-black?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D&logoSize=amd"/> <img src="https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angular&logoColor=ED1D24"/> <img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript&logoColor=3178C6"/> <img src="https://img.shields.io/badge/nuxt.js-black?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82"/> <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/jquery-black?style=for-the-badge&logo=jquery&logoColor=0769AD"/> <img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass&logoColor=CC6699"/> <img src="https://img.shields.io/badge/bem-black?style=for-the-badge&logo=bem&logoColor=red"/> <img src="https://img.shields.io/badge/VUEX-black?style=for-the-badge&color=4FC08D"/> <img src="https://img.shields.io/badge/PINIA-black?style=for-the-badge&color=ffda5b"/> 
+🤖 Exploring Generative AI, Prompt Engineering and AI Creative workflows
 
-<img src="https://img.shields.io/badge/webpack-black?style=for-the-badge&logo=webpack&logoColor=8DD6F9"/> <img src="https://img.shields.io/badge/gulp-black?style=for-the-badge&logo=gulp&logoColor=CF4647"/> <img src="https://img.shields.io/badge/grunt-black?style=for-the-badge&logo=grunt&logoColor=FAA918"/> <img src="https://img.shields.io/badge/parcel-black?style=for-the-badge&logo=parcel&logoColor=yellow"/>
+💰 Working with FinTech, P2P platform, investment and financial products
 
-<img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=F05032"/> <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/gitlab-black?style=for-the-badge&logo=gitlab&logoColor=FC6D26"/> <img src="https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm&logoColor=CB3837"/> <img src="https://img.shields.io/badge/eslint-black?style=for-the-badge&logo=eslint&logoColor=4B32C3"/> 
+🏗️ Connecting business requirements with technical implementation
 
-<img src="https://img.shields.io/badge/json-black?style=for-the-badge&logo=json&logoColor=white"/> <img src="https://img.shields.io/badge/axios-black?style=for-the-badge&logo=axios&logoColor=5A29E4"/> <img src="https://img.shields.io/badge/Ajax-black?style=for-the-badge&Color=0085CA"/> <img src="https://img.shields.io/badge/REST API-black?style=for-the-badge&Color=0085CA"/> 
+📚 Creating technical specifications, product documentation and development workflows
 
-
-<img src="https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/> <img src="https://img.shields.io/badge/GSAP-black?style=for-the-badge&color=light-green"/> <img src="https://img.shields.io/badge/JQuery UI-black?style=for-the-badge&logo=jquery&logoColor=blue"/>  <img src="https://img.shields.io/badge/swiper-black?style=for-the-badge&logo=swiper&logoColor=6332F6"/>
-
-
-<img src="https://img.shields.io/badge/jest-black?style=for-the-badge&logo=jest&logoColor=C21325"/> <img src="https://img.shields.io/badge/cypress-black?style=for-the-badge&logo=cypress&logoColor=69D3A7"/> 
-
-<img src="https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&logoColor=F24E1E"/> <img src="https://img.shields.io/badge/adobe photoshop-black?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF"/>
+👩‍🏫 Teaching web development and helping others grow their technical skills
 
 
 <br/>
 
-## My GitHub Stats 📊
+# My Stack & Tools
+<table> <tr> <td width="50%">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tati-b127&theme=nightowl" alt="Graph" width="100%" />
+🧩 Frontend Development
+Vue 3
+Nuxt 3 / Nuxt 4
+TypeScript
+JavaScript
+Pinia
+REST API
+WebSocket
+Responsive interfaces
+SSR / SPA / PWA
+Performance & SEO
+
+</td> <td width="50%">
+
+🏗️ Digital Products
+SaaS platforms
+Multi-tenant applications
+FinTech products
+Investment platforms
+P2P lending
+Product architecture
+Business logic
+Technical documentation
+Product prototyping
+
+</td> </tr>
+
+<tr> <td width="50%">
+
+🎨 UX/UI & Creative
+UX/UI Design
+Figma
+Design Systems
+Responsive Design
+Prototyping
+Visual communication
+Product interfaces
+Creative direction
+
+</td> <td width="50%">
+
+🤖 AI & Generative AI
+Prompt Engineering
+AI Image Generation
+AI Video Generation
+AI Creative Direction
+Character consistency
+AI-assisted development
+Generative AI workflows
+Creative automation
+
+</td> </tr> </table>
 
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tati-b127&theme=nightowl" alt="Stats" width="50%" /><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tati-b127&theme=nightowl" alt="Most Commit Language" width="50%" />
+
+# Tech Stack
+## Core
+
+<p> <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6" /> <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Vue.js-111111?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /> <img src="https://img.shields.io/badge/Nuxt-111111?style=for-the-badge&logo=nuxt&logoColor=00DC82" /> <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26" /> <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6" /> <img src="https://img.shields.io/badge/SCSS-111111?style=for-the-badge&logo=sass&logoColor=CC6699" /> <img src="https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" /> 
+<img src="https://img.shields.io/badge/Vuexy-111111?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /></p>
+
+## State Management & Data
+
+<p> <img src="https://img.shields.io/badge/Pinia-111111?style=for-the-badge&logo=pinia&logoColor=FFD859" /> <img src="https://img.shields.io/badge/REST_API-111111?style=for-the-badge&logo=fastapi&logoColor=009688" /> <img src="https://img.shields.io/badge/Axios-111111?style=for-the-badge&logo=axios&logoColor=5A29E4" /> <img src="https://img.shields.io/badge/WebSocket-111111?style=for-the-badge&logo=socketdotio&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/JSON-111111?style=for-the-badge&logo=json&logoColor=FFFFFF" /> </p>
+
+## UI, UX & Design
+
+<p> <img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=F24E1E" /> <img src="https://img.shields.io/badge/UX%2FUI-111111?style=for-the-badge&logo=figma&logoColor=F24E1E" /> <img src="https://img.shields.io/badge/Design_Systems-111111?style=for-the-badge&logo=storybook&logoColor=FF4785" /> <img src="https://img.shields.io/badge/GSAP-111111?style=for-the-badge&logo=greensock&logoColor=88CE02" /> <img src="https://img.shields.io/badge/Swiper-111111?style=for-the-badge&logo=swiper&logoColor=6332F6" /> <img src="https://img.shields.io/badge/Photoshop-111111?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" /> </p>
+
+## Development Tools
+
+<p> <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" /> <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/GitLab-111111?style=for-the-badge&logo=gitlab&logoColor=FC6D26" /> <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED" /> <img src="https://img.shields.io/badge/npm-111111?style=for-the-badge&logo=npm&logoColor=CB3837" /> <img src="https://img.shields.io/badge/ESLint-111111?style=for-the-badge&logo=eslint&logoColor=4B32C3" /> </p>
+
+## Testing
+
+<p> <img src="https://img.shields.io/badge/Jest-111111?style=for-the-badge&logo=jest&logoColor=C21325" /> <img src="https://img.shields.io/badge/Cypress-111111?style=for-the-badge&logo=cypress&logoColor=69D3A7" /> </p>
+
+## AI & Generative AI
+
+<p> <img src="https://img.shields.io/badge/Generative_AI-111111?style=for-the-badge&logo=openai&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Prompt_Engineering-111111?style=for-the-badge&logo=openai&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/AI_Creative-111111?style=for-the-badge&logo=adobe&logoColor=FF0000" /> <img src="https://img.shields.io/badge/AI_Image_Generation-111111?style=for-the-badge&logo=openai&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/AI_Video_Generation-111111?style=for-the-badge&logo=openai&logoColor=FFFFFF" /> </p>
+
+## Product & Domain Expertise
+
+<p> <img src="https://img.shields.io/badge/FinTech-4653EC?style=for-the-badge" /> <img src="https://img.shields.io/badge/P2P-4653EC?style=for-the-badge" /> <img src="https://img.shields.io/badge/Investment_Platforms-4653EC?style=for-the-badge" /> <img src="https://img.shields.io/badge/SaaS-4653EC?style=for-the-badge" /> <img src="https://img.shields.io/badge/Multi--Tenant-4653EC?style=for-the-badge" /> <img src="https://img.shields.io/badge/Digital_Products-4653EC?style=for-the-badge" /> </p>
+
+## Additional Experience
+
+<p> <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Angular-111111?style=for-the-badge&logo=angular&logoColor=DD0031" /> <img src="https://img.shields.io/badge/Bootstrap-111111?style=for-the-badge&logo=bootstrap&logoColor=7952B3" /> <img src="https://img.shields.io/badge/BEM-111111?style=for-the-badge" /> </p>
+
+<br/>
+
 
 
 <!--
